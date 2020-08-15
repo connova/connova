@@ -5,9 +5,9 @@
 -->
 
 - 🔭 I’m currently working on a blockchain game for gardeners that represents their plants as in-game assets. It is called Garden Game and you can view it as my most recent repository.
-- 🌱 I’m currently developing my first decentralized applications. I'm also beginning to write passionately about blockchain. Stay tuned for my journey. 
-- 👯 I’m looking to collaborate on blockchain projects. I have began to write and program for this industry.
-- 🤔 I’m looking for help with funding for my first decentralized application. Garden Game! As mentioned above.
-- 💬 Ask me about why I got started with blockchain.
+- 🌱 As I'm developing my first decentralized applications I'm also beginning to write passionately about blockchain. Stay tuned for my journey!
+- 👯 I would love to collaborate on blockchain projects. I have began to write and program for this industry and that isn't going to stop anytime soon.
+- 🤔 Gardeng Game, as mentioned above, is going to hit the market so, consider collaborating with me or funding it if you like the concept.
+- 💬 Ask me about why I got started with blockchain...
 - 📫 How to reach me: you can reach me at linkedin.com/in/shafinr
 - ⚡ Fun fact: I am also a striving parkour athlete!
